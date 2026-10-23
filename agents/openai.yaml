@@ -1,0 +1,4 @@
+interface:
+  display_name: "胖橘小科普视频内容包"
+  short_description: "用直观钩子、猫的动作与可见因果制作快节奏科普包，按每段10秒交付提示词与首尾帧"
+  default_prompt: "使用 $pangju-science-video-kit，收集本期科普问答、整片时长和画幅，用直观开头、猫的动作及可见因果制作紧凑内容包，按每段10秒交付。已提供的信息直接沿用。"
